@@ -1,0 +1,21 @@
+EPE 2 - DESARROLLO FULL STACK - CEIA LA PINTANA
+Estudiante: Matías Cárcamo
+
+ESTA CARPETA INCLUYE:
+1. backend/  -> Django + Django REST Framework + SQLite + migración + tests.
+2. frontend/ -> React + Bootstrap + Axios + rutas privadas + módulos CRUD.
+3. evidencias/ -> capturas de panel, estudiantes, asistencia e inventario.
+4. REGISTRO_PRUEBAS.md -> matriz de pruebas.
+5. qa_static.py -> revisión estructural (resultado: 11/11).
+6. README.md -> instalación, endpoints y credenciales demo.
+7. INFORME_EPE2.docx -> informe técnico listo para entrega.
+
+REPOSITORIO GITHUB PUBLICADO:
+- https://github.com/matiasignaciocarcamo-png/sistema-web-ceia-la-pintana
+- El enlace ya fue incorporado en la sección 10.2 del informe final.
+
+CREDENCIALES DEMO LOCALES:
+- Administrador: admin / Admin123!
+- Profesor: profesor / Profesor123!
+
+Antes de una entrega pública o producción, cambiar estas credenciales.
